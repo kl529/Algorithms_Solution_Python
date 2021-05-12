@@ -2,24 +2,13 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# Python-Projects (Not Completed)
+# Python-Algorithms-Study
 
-Karice's Mini Python Projects (2016 ~ ) 
+매일 비가오나 눈이오나 1~3 문제씩 꾸준히 업데이트
 
-Simple Projects If you want to get more informations, visit [here.](https://karice.tistory.com/)
+## LeetCodes
 
-
-## Projects ✨
-
-SR No   | Project 
---- | --- 
-1 | [Tetris Game](https://github.com/kl529/Python_Projects/tree/Tetris) 
-2 | [Matgo Game (Korean Traditonal Card Game)](https://github.com/kl529/Python_Projects/tree/Matgo_Game)
-3 | [Morpheme_Analysis](https://github.com/kl529/Python_Projects/tree/Morpheme_analysis)
-4 | [Kaggle](https://github.com/kl529/Python_Projects/tree/Kaggle)
-5 | [Crawling(BS, Selenium)](https://github.com/kl529/Python_Projects/tree/Crawling)
-6 | Not Yet❗
-7 | Not Yet❗
-8 | Not Yet❗
-9 | Not Yet❗
-10 | Not Yet❗
+1. Two_Sum (05.10)
+2. Valid_Palindrome (05.11)
+3. Reverse_String (05.12)
+4. Reorder_Data_in_Log_Files (05.12)
