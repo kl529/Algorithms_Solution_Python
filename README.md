@@ -8,7 +8,7 @@
 
 ## LeetCodes
 
-1. Two_Sum (05.10)
-2. Valid_Palindrome (05.11)
-3. Reverse_String (05.12)
-4. Reorder_Data_in_Log_Files (05.12)
+1. Two_Sum (21.05.10)
+2. Valid_Palindrome (21.05.11)
+3. Reverse_String (21.05.12)
+4. Reorder_Data_in_Log_Files (21.05.12)
