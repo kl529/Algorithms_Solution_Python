@@ -20,11 +20,11 @@ class MyCircularQueue:
             return False
         else:
             self.q[self.p1] = None
-            slef.p1 = (self.p1 +1) % self.maxlen
+            self.p1 = (self.p1 +1) % self.maxlen
             return True
 
     def Front(self) -> int:
-        return -1 if self.q[self.p1 +1] is None else self.q[self.p1]
+        return -1 if self.q[self.p1] is None else self.q[self.p1]
 
     def Rear(self) -> int:
         return -1 if self.q[self.p2 - 1] is None else self.q[self.p2 -1]
